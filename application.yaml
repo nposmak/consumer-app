@@ -1,0 +1,12 @@
+app_port:  8083
+queue_name: my_queue
+exchange: my_exchange
+routing_key: my_routing
+rabbit_user_name: user
+rabbit_password: password
+rabbit_host: localhost
+rabbit_port: 5672
+db_url: localhost:5435
+db_name: test_db
+db_user: postgres
+db_password: postgres
